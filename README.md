@@ -33,5 +33,24 @@ Terminal snap (To perform pre-layout simulation)
 ![syt_str](https://user-images.githubusercontent.com/52724861/131194132-b9cdbb83-3bad-4edd-ac62-92bfacf7911b.png)
 ![synt_str_comp](https://user-images.githubusercontent.com/52724861/131194138-68ba7ed4-cb0b-49ce-8fe8-68b8103f7060.png)
 
+### Floorplanning
+- Settings in Config.tcl File
+
+![floor_core20](https://user-images.githubusercontent.com/52724861/131195109-cd6291c6-2c8a-4286-a40c-8494286f1fa9.png)
+
+- Floorplan View
+
+![fp](https://user-images.githubusercontent.com/52724861/131197719-a91e4f6b-127d-4211-8c77-79fc7711f4a5.png)
+
+### Placement
+- Placement Analysis
+
+![placem_ana](https://user-images.githubusercontent.com/52724861/131198401-c7654856-0a51-4141-9497-ab4febd547e0.png)
+
+- Placement View
+
+![placem](https://user-images.githubusercontent.com/52724861/131198167-6e192e0d-7511-492a-963a-f40ae35a504b.png)
+
+
 
 
